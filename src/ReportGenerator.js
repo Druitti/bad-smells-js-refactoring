@@ -1,3 +1,4 @@
+// ReportGenerator.refactored.js
 export class ReportGenerator {
   constructor(database) {
     this.db = database;
